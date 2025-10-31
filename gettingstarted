@@ -1,0 +1,6 @@
+#instructions to run the project
+run following commands
+1)npm intstall
+2)npm run build
+
+project will run in http://localhost:3001/
